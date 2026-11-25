@@ -16,9 +16,8 @@ Estos links siempre bajan la versión más nueva.
 reloj. Si Windows muestra "Windows protegió tu PC", elige **Más información → Ejecutar de todas formas**. Si pregunta
 por el firewall, permite el acceso en redes privadas.
 
-**Mac**: descomprime `Puente-Mac.zip` y arrastra **Puente** a Aplicaciones. La primera vez, si macOS dice que no puede
-verificar la app, ve a **Ajustes del Sistema → Privacidad y seguridad → Abrir de todas formas**. Después permite la
-red local y, para el mouse y el teclado, Accesibilidad.
+**Mac**: descomprime `Puente-Mac.zip` y arrastra **Puente** a Aplicaciones. Está notarizada por Apple, así que abre
+sin avisos. Al abrirla, permite la red local y, para el mouse y el teclado, Accesibilidad.
 
 Luego abre Puente en las dos computadoras (misma red Wi-Fi), elige **Conectar** y confirma que las dos muestran el
 mismo código de 6 dígitos.
